@@ -1,16 +1,16 @@
 const exercises = [
     {
-        exercise: 'dumbbell curls',
+        exercise: 'dumbbell curls🏋🏽',
         bodyType: 'biceps',
         bodyPart: 'arms'
     },
     {
-        exercise: 'running',
+        exercise: 'running 🏃🏽‍♂️',
         bodyPart: 'legs'
     },
     {
-        exercise: 'sit ups',
-        bodyType: 'abs',
+        exercise: 'sit ups 🤸🏽‍♀️',
+        bodyType: 'abs ',
         bodyPart: 'core'
     }
 ];
